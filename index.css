@@ -1,5 +1,5 @@
 body {
-  width: 460px;
+  width: 440px;
   margin: 24px auto 0;
   padding-bottom: 24px;
 }
@@ -59,7 +59,7 @@ a:active {
 
 .area {
   overflow: hidden;
-  margin: 0 2px;
+  margin: 0 1px;
   padding: 0 24px;
 }
 #player-area, #project-area {
