@@ -59,7 +59,7 @@ a:active {
 
 .area {
   overflow: hidden;
-  margin: 0 1px;
+  margin: 0 -10px;
   padding: 0 24px;
 }
 #player-area, #project-area {
