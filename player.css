@@ -64,7 +64,7 @@
 }
 .player {
   box-shadow: 0 0 0 1px rgba(0, 0, 0, .4);
-  width: 480px;
+  width: 400px;
   height: 360px;
   position: relative;
   -webkit-transform-origin: 0 0;
