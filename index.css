@@ -1,5 +1,5 @@
 body {
-  width: 480px;
+  width: 460px;
   margin: 24px auto 0;
   padding-bottom: 24px;
 }
@@ -133,7 +133,7 @@ code {
 #embed-code {
   background: 0;
   border: 1px solid rgba(0, 0, 0, .4);
-  margin: 0;
+  margin: 2px;
   padding: 4px;
   outline: 0;
   width: 80px;
